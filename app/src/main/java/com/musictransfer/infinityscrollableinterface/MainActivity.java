@@ -36,5 +36,6 @@ public class MainActivity extends AppCompatActivity {
         citationList.add(c3);
         citationList.add(c4);
         citationList.add(c5);
+
     }
 }
